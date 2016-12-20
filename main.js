@@ -87,6 +87,13 @@ addMarker({
   lat_long: [4.444676,-75.242438],
 });
 
+addMarker({
+  name: 'Armin',
+  iconUrl: 'images/armin.jpg',
+  url: '//arminmahban.github.io',
+  message: 'Nation\'s Capital',
+  lat_long: [38.889931, -77.009003]
+});
 
 //END SECTION FOR MARKERS
 
